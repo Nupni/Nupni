@@ -1,4 +1,4 @@
-### 🎯 MY Resume
+### 🎯 MY Portfolio
 
 ### source code
 https://github.com/prapartinpun-resume
